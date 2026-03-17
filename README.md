@@ -24,3 +24,5 @@ OUTPUT:
 <img width="812" height="697" alt="Screenshot 2026-03-12 224817" src="https://github.com/user-attachments/assets/a604be8d-ff88-4dd8-82f6-58822ca6916b" />
 
 RESULT:
+
+The effectiveness of prompting techniques across different AI platforms arecompared successfully.
